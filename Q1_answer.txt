@@ -1,0 +1,14 @@
+Requirements
+
+1- Allow Office Managers to register Dentists who apply to join the network.
+2- Capture Dentist information including unique ID, first name, last name, contact phone number, email, and specialization (dentist application data).
+3- Enable Office Managers to enroll new Patients who require dental services.
+4- Capture Patient information including unique ID, first name, last name, contact phone number, email, mailing address, and date of birth (Patient apllication form data)
+5- Allow Patients to request appointments through phone calls or an online form on the ADS website.
+6- Provide confirmation emails to Patients upon booking appointments.
+7- Allow Dentists to sign in and view a listing of all their Appointments, including Patient details, and appointment detail.
+8- Display information about each Surgery, including its name, location address, and telephone number.
+9- Provide a way for Patients to sign in and view their appointments details, including details of the dentist they are scheduled to see.
+10- Allow Patients to request appointment cancellations or changes.
+11- Enforce a limit of 5 appointments per week for each Dentist.
+12- Prevent Patients from requesting new appointments if they have outstanding, unpaid bills for dental services.
